@@ -1,2 +1,2 @@
-# duan1_fpoly
-Dự án 1 đẩy mồ hôi và nước mắt của tuấn Anh và đồng bọn
+# DuAn1-FinalOfFinalOfFinalLanCuoi
+Dự án 1 đầy mồ hôi và nước mắt
